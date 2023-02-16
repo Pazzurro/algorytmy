@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T11:12:27.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="RijVhxrN00BqhRHTW-AZ" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-16T11:13:04.902Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ws8-20kcfGrJwFz4etrQ" version="20.8.20" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="gvW8EVXljuhxFobBcjw6-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gvW8EVXljuhxFobBcjw6-1" target="gvW8EVXljuhxFobBcjw6-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gvW8EVXljuhxFobBcjw6-1" value="podaj tablice a&lt;br&gt;min = 0&lt;br&gt;max = 0&lt;br&gt;i = 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="gvW8EVXljuhxFobBcjw6-1" value="podaj tablice a&lt;br&gt;min = a[0]&lt;br&gt;max = a[0]&lt;br&gt;i = 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gvW8EVXljuhxFobBcjw6-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gvW8EVXljuhxFobBcjw6-2" target="gvW8EVXljuhxFobBcjw6-5">
